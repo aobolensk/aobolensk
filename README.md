@@ -17,6 +17,12 @@
 <details>
 <summary>My Open Source contributions</summary>
 
+Compilers:
+- [triton-shared](https://github.com/microsoft/triton-shared)
+- [Polygeist](https://github.com/llvm/Polygeist)
+- [LLVM](https://github.com/llvm/llvm-project)
+
+Intel projects:
 - [The Intel® Media SDK](https://github.com/Intel-Media-SDK/MediaSDK)
 - [Intel® oneVPL GPU Runtime](https://github.com/oneapi-src/oneVPL-intel-gpu)
 - [oneAPI DPC++ compiler](https://github.com/intel/llvm)
