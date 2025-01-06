@@ -26,6 +26,7 @@ Intel projects:
 - [The Intel® Media SDK](https://github.com/Intel-Media-SDK/MediaSDK)
 - [Intel® oneVPL GPU Runtime](https://github.com/oneapi-src/oneVPL-intel-gpu)
 - [oneAPI DPC++ compiler](https://github.com/intel/llvm)
+- [OpenVINO™](https://github.com/openvinotoolkit/openvino)
 
 </details>
 
