@@ -28,6 +28,10 @@ Intel projects:
 - [oneAPI DPC++ compiler](https://github.com/intel/llvm)
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
 
+Open university courses:
+- Parallel programming course [practice repository](https://github.com/learning-process/parallel_programming_course) and [slides](https://github.com/learning-process/parallel_programming_slides)
+- Compiler course [organization](https://github.com/NN-complr-tech), [lectures](https://github.com/NN-complr-tech/Complr-course-lectures)
+
 </details>
 
 <details>
