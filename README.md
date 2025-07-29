@@ -6,9 +6,11 @@
 
 ## Technical skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=45 /><nobr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=45 /><nobr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=45 /><nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=45 alt="C" /><nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=45 alt="C++" /><nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width=45 alt="LLVM" /><nobr>
+<img src="https://mlir.llvm.org/mlir-logo.png" width=45 alt="MLIR" /><nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=45 alt="Python" /><nobr>
 
 ## Projects
 
