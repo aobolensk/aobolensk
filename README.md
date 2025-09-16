@@ -20,7 +20,7 @@
 <summary>My Open Source contributions</summary>
 
 Compilers:
-- [triton-shared](https://github.com/microsoft/triton-shared)
+- [Triton](https://github.com/triton-lang/triton), [triton-shared](https://github.com/microsoft/triton-shared)
 - [Polygeist](https://github.com/llvm/Polygeist)
 - [LLVM](https://github.com/llvm/llvm-project)
 
