@@ -36,11 +36,6 @@ Open university courses:
 
 </details>
 
-<details>
-<summary>Github stats</summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aobolensk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-</details>
-
 ## Contacts
 
 <a href="mailto:gooddoog@student.su"><img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" width=45 /></a>
