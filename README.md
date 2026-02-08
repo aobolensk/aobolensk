@@ -4,6 +4,8 @@
 - I have experience in C++ and Python programming, worked in projects related to media software stack and currently working in compiler development scope.
 - I am doing research at university, doing pet open source projects in my spare time.
 
+**[My CV (PDF)](https://aobolensk.github.io/cv/cv.pdf)**
+
 ## Technical skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=45 alt="C" /><nobr>
