@@ -6,33 +6,24 @@
 
 **[My CV (PDF)](https://aobolensk.github.io/cv/cv.pdf)**
 
-## Technical skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=45 alt="C" /><nobr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=45 alt="C++" /><nobr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width=45 alt="LLVM" /><nobr>
-<img src="https://mlir.llvm.org/mlir-logo.png" width=45 alt="MLIR" /><nobr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=45 alt="Python" /><nobr>
-
 ## Projects
 
 [My Open Source projects](https://github.com/aobolensk?tab=repositories&q=&type=source)
 
-<details>
-<summary>My Open Source contributions</summary>
+### Open source contributions:
 
-Compilers:
-- [Triton](https://github.com/triton-lang/triton), [triton-shared](https://github.com/microsoft/triton-shared)
-- [Polygeist](https://github.com/llvm/Polygeist)
+Compilers and AI infrastructure:
+
 - [LLVM](https://github.com/llvm/llvm-project)
-
-Intel projects:
-- [The Intel® Media SDK](https://github.com/Intel-Media-SDK/MediaSDK)
-- [Intel® oneVPL GPU Runtime](https://github.com/oneapi-src/oneVPL-intel-gpu)
-- [oneAPI DPC++ compiler](https://github.com/intel/llvm)
+- SPIR-V: [SPIRV-LLVM-Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator), [SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools)
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
+- ROCm: [TheRock](https://github.com/ROCm/TheRock), [ROCm libraries](https://github.com/ROCm/rocm-libraries), [ROCm systems](https://github.com/ROCm/rocm-systems), 
+- [Triton](https://github.com/triton-lang/triton), [triton-shared](https://github.com/microsoft/triton-shared)
+- [Lightning Thunder](https://github.com/Lightning-AI/lightning-thunder)
+- Intel: [Media SDK](https://github.com/Intel-Media-SDK/MediaSDK), [oneVPL GPU Runtime](https://github.com/intel/vpl-gpu-rt), [oneAPI DPC++ compiler](https://github.com/intel/llvm)
 
 Open university courses:
+
 - Parallel programming course [practice repository](https://github.com/learning-process/parallel_programming_course) and [slides](https://github.com/learning-process/parallel_programming_slides)
 - Compiler course [organization](https://github.com/NN-complr-tech), [lectures](https://github.com/NN-complr-tech/Complr-course-lectures)
 
