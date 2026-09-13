@@ -10,7 +10,8 @@
 
 [My Open Source projects](https://github.com/aobolensk?tab=repositories&q=&type=source)
 
-### Open source contributions:
+<details>
+<summary>Open source contributions</summary>
 
 Compilers and AI infrastructure:
 
