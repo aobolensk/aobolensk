@@ -1,8 +1,6 @@
 ## Hi, my name is [Arseniy Obolenskiy](https://github.com/aobolensk)
 
-- I am currently working as a software engineer.
-- I have experience in C++ and Python programming, worked in projects related to media software stack and currently working in compiler development scope.
-- I am doing research at university, doing pet open source projects in my spare time.
+Software engineer specializing in LLVM/MLIR compiler development and AI inference optimization, with C++ and Python experience across CPU, GPU, and NPU targets. Former university lecturer and mentor.
 
 **[My CV (PDF)](https://aobolensk.github.io/cv/cv.pdf)**
 
